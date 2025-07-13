@@ -1,6 +1,6 @@
 # 🎵 Music-Store-Analysis-SQL-
 
-## 🎵 Executive Summary: 
+## 🎵 Executive Summary : 
 
 This SQL-based project examines various aspects of a music store's customer and sales data. The queries are strategically designed to extract valuable insights on revenue generation, customer demographics, genre trends, and artist performance.
 
@@ -16,9 +16,6 @@ The dataset appears to include tables such as:
 * `track`, `album`, `artist`, `genre`: Music-related metadata.
 * `employee`: Organization hierarchy information.
 
-Each SQL query in your script uncovers a different business insight. Here's a breakdown of your findings:
-
----
 
 ## 🔝 Key Business Insights
 
